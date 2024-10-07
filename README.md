@@ -30,6 +30,7 @@ To get started with the project, follow these steps:
    git clone https://github.com/lindazeng979/BergNet.git
    cd BergNet
    ```
+   - Note: The file `data/augmented-train-set.mx` is a large file which can only be downloaded if you have `Git LFS` installed. You can find information on installation and configuration [here](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage). This file is necessary for the code to run as intended. 
 
 2. **View Reports and Presentations**:
    Open the `BergNet-Report.pdf` and `BergNet-Presentation.pdf` using any PDF viewer to explore the detailed insights into the project and its findings.
